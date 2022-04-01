@@ -28,6 +28,7 @@ body{
 }
 
 .container{
+    margin: 10%;
     background-color: rgb(88, 119, 207);
     padding: 1em;
     border-radius: 10px;
@@ -40,17 +41,10 @@ img[alt=logo_bv]{
     width: 25%;
 }
 
-img[alt=chip]{
-    width: 25%;
-}
-
-img[alt=contactless]{
-    width: 5%;
-}
-
 .footer img{
-    width: 20%;
-    margin-left: 80%;
+    width: 10%;
+    margin-left:300px;
+    padding-bottom: 20px;
 }
 
 .content{
@@ -59,6 +53,17 @@ img[alt=contactless]{
     height: 100%;
 }
 
-.header{
-    height:70%;
+img[alt=chip]{
+    width: 25%;
+    vertical-align: top;
+}
+
+img[alt=contactless]{
+    width: 5%;
+    vertical-align: center;
+}
+
+img[alt=faixa]{
+    vertical-align: center;
+    height: 200px;
 }
