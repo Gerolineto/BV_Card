@@ -30,40 +30,50 @@ body{
 .container{
     margin: 10%;
     background-color: rgb(88, 119, 207);
-    padding: 1em;
+    padding: 1.5%;
     border-radius: 10px;
     width: 25em;
     height: 15em;
     box-shadow: 4px 4px 8px #000,5px 5px 200px rgb(0, 255, 255) ;
 }
-
-img[alt=logo_bv]{
-    width: 25%;
-}
-
-.footer img{
-    width: 10%;
-    margin-left:300px;
-    padding-bottom: 20px;
-}
-
 .content{
     display: flex;
     flex-direction: column;
     height: 100%;
 }
 
-img[alt=chip]{
+img[alt=logo_bv]{
     width: 25%;
-    vertical-align: top;
+}
+
+main{
+    display: flex;
+}
+
+img[alt=chip]{
+    width: auto;
+    height: 9%;
+    margin-top: 10px;
+    
+
 }
 
 img[alt=contactless]{
-    width: 5%;
-    vertical-align: center;
+    width: auto;
+    height: 9%;
+    margin-top: 10px;
+    margin-left: 8px;
+    
+    
+    
 }
 
-img[alt=faixa]{
-    vertical-align: center;
+img[alt=faixa]{  
     height: 200px;
+}
+
+.footer img{
+    width: 10%;
+    margin-left:300px;
+    padding-bottom: 20px;
 }
