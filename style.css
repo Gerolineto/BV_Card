@@ -20,8 +20,6 @@ azul aroxeado: rgb(80, 108, 220);
 
 body{
     background-color: rgb(36, 36, 36);
-    font-family: Arial, Helvetica, sans-serif;
-    color: #FFF;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -52,28 +50,26 @@ main{
 
 img[alt=chip]{
     width: auto;
-    height: 9%;
-    margin-top: 10px;
+    height: 10%;
+    margin: 10px 0px 0px 4px;
     
 
 }
 
 img[alt=contactless]{
     width: auto;
-    height: 9%;
+    height: 10%;
     margin-top: 10px;
-    margin-left: 8px;
-    
-    
-    
+    margin-left: 8px;   
 }
 
-img[alt=faixa]{  
-    height: 200px;
+img[alt=faixa]{ 
+    margin: -75px 0px  0px  20px;
+    height: 230px;
 }
 
 .footer img{
-    width: 10%;
-    margin-left:300px;
-    padding-bottom: 20px;
+    width: 20%;
+    margin: -300px 0px 260px 250px;
+    
 }
