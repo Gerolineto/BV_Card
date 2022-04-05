@@ -15,10 +15,13 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
+    overflow: hidden;
+    
 }
 
 .container{
-    margin: 10em;
+    cursor: pointer;
+    margin: 15%;
     background-color: rgb(88, 119, 207);
     padding: 1.5em;
     border-radius: 10px;
