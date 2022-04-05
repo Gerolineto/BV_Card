@@ -8,7 +8,7 @@ Realizar de maneira chamativa a apresentação de um modelo de cartão, utilizan
 
 <p align="center">
 
-  https://github.com/Gerolineto/BV_Card/blob/main/images/giphy.gif
+ ![interface](https://github.com/Gerolineto/BV_Card/blob/main/images/giphy.gif)
 
 </p>
 
